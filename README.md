@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hello, my name is Oguzhan.</h1>
+<h3 align="center">Biomedical Engineer & Data Science enthusiast.</h3>
 
-<!--
-**O-Memis/O-Memis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=o-memis&label=Profile%20views&color=0e75b6&style=flat" alt="o-memis" /> </p>
 
-Here are some ideas to get you started:
+- 💻 I’m currently working on **Machine Learning studies in biomedical & healthcare fields. I am interested in Medical Informatics, Bio-signal Processing, Wearable device design, Telemedicine and IoMT Projects.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Data Science and Deep Learning.**
+
+- 📫 How to reach me **memisoguzhants@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=o-memis&show_icons=true&locale=en&layout=compact" alt="o-memis" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=o-memis&show_icons=true&locale=en" alt="o-memis" /></p>
