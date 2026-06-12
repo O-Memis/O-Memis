@@ -3,9 +3,9 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=o-memis&label=Profile%20views&color=0e75b6&style=flat" alt="o-memis" /> </p>
 
-- 💻 I’m currently working on **Machine Learning studies for biomedical research, and renewable energy sector.**
+- 💻 I’m currently working on **Machine Learning studies for biomedical research, and for renewable energy sector.**
 
-- 🩻 I am interested in **Medical Informatics, Bio-signal Processing, Wearable device design, Telemedicine and IoMT Projects.**
+- 🩻 I am interested in **Medical Informatics, Biosignal Processing, Computer Vision, and Digital Health projects.**
 
 - 🌱 I’m currently learning **Data Science, Statistics and Deep Learning.**
 
